@@ -14,7 +14,7 @@ I'm a **Data Science & AI enthusiast** pursuing my **MS in Information Systems**
 
 ## 🔭 What I'm Currently Working On
 
-- **Agentic RAG Pipelim**: Multi-agent Agentic RAG system using multiple MCP server and a complete data pipleine with orchestration
+- **Agentic RAG Pipeline**: Multi-agent Agentic RAG system using multiple MCP server and a complete data pipleine with orchestration
 - **ML-Ops**: building a Complete ML-Ops pipleine from data preperation -> fine tuning a model -> deployment -> Monitoring
 
 ## 🌱 Currently Learning & Exploring
